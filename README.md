@@ -11,8 +11,5 @@ The Conservancy is inviting the Kaggle community to develop algorithms to automa
 
 Machine learning has the ability to transform what we know about our oceans and how we manage them. You can be part of the solution.
 
-Resources
-
-You can learn more about this competition and The Nature Conservancy in the video below.
 
 
