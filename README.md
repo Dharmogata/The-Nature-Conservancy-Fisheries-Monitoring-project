@@ -3,6 +3,8 @@ Can you detect and classify species of fish?
 
 Nearly half of the world depends on seafood for their main source of protein. In the Western and Central Pacific, where 60% of the world’s tuna is caught, illegal, unreported, and unregulated fishing practices are threatening marine ecosystems, global seafood supplies and local livelihoods. The Nature Conservancy is working with local, regional and global partners to preserve this fishery for the future.
 
+https://kaggle2.blob.core.windows.net/competitions/kaggle/5568/media/TNC-FF-landing-page-banner.jpg
+
 The Nature Conservancy Competition
 
 Currently, the Conservancy is looking to the future by using cameras to dramatically scale the monitoring of fishing activities to fill critical science and compliance monitoring data gaps. Although these electronic monitoring systems work well and are ready for wider deployment, the amount of raw data produced is cumbersome and expensive to process manually.
@@ -11,5 +13,5 @@ The Conservancy is inviting the Kaggle community to develop algorithms to automa
 
 Machine learning has the ability to transform what we know about our oceans and how we manage them. You can be part of the solution.
 
-
+https://kaggle2.blob.core.windows.net/competitions/kaggle/5568/media/TNC.mp4
 
